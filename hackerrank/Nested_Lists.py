@@ -1,3 +1,27 @@
+#Task
+
+#Given the names and grades for each student in a class of  students,
+#store them in a nested list and print the name(s) of any student(s)
+#having the second lowest grade.
+
+#Input Format
+
+# The first line contains an integer "N" the number of students.
+# The  subsequent "2N" lines describe each student over 2 lines.
+# - The first line contains a student's name.
+# - The second line contains their grade.
+
+#Constraints
+
+# 2 <= N <= 5
+# There will always be one or more students having the second lowest grade.
+
+#Output Format
+
+#Print the name(s) of any student(s) having the second lowest grade in.
+#If there are multiple students, order their names alphabetically and
+#print each one on a new line.
+
 if __name__ == '__main__':
     N = int(input())
     while N < 2 or N > 5:
@@ -47,3 +71,4 @@ if __name__ == '__main__':
     sorted_names.sort(reverse=False)
     for names in sorted_names:
         print(names)
+
