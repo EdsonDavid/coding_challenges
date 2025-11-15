@@ -1,3 +1,19 @@
+#Task
+
+#Given a year, determine whether it is a leap year. If it is a leap year,
+#return the Boolean True, otherwise return False.
+
+#Input format
+
+#Read "year" the year to test.
+
+#Constraints
+# 1900 <= year <= 10^5
+
+#Output format
+
+#The function must return a Boolean value (True/False).
+
 from math import *
 
 def is_leap(year):
@@ -16,3 +32,4 @@ def is_leap(year):
 
 
 year = int(input())
+
