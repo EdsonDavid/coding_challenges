@@ -1,7 +1,7 @@
 CODING CHALLENGES REPO
 
 Coding exercises that helped me develop Python's logic and usage of tools and also to improve my coding skills and logic thinking
-This repo contains my solutions to problems for HackerRank, LeetCode and Codewars, sorted by platform/subdomains/level of difficulty.
+This repo contains my solutions to problems for HackerRank, LeetCode and Codewars, and others sorted by platform/subdomains/level of difficulty.
 My goal is to practice consistenly and document my learning as I advance on my formation as a developer
 
 REPO'S OBJECTIVE
